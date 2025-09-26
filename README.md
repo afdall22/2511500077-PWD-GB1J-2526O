@@ -4,4 +4,4 @@ Matkuliah Pemrograman Web Dasar<br>
 Kelompok {GB1J}<br>
 Tahun Ajaran 2025/2026
 Semester Gasal<br><br>
-![logoisbal](logoisbal.png)
+![Logo ISBAL](logoisbal.png)
